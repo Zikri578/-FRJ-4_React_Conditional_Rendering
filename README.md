@@ -39,7 +39,7 @@ Contoh penggunaan Conditional Rendering yaitu :
             left: 0;
         }
 
-        // File App.jsx
+        // letak File : App.jsx
         import React from 'react'
 
         //merupakan component yang bernama App
